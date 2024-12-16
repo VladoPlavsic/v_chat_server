@@ -1,5 +1,5 @@
 defmodule Main do
-  def main() do
+  def main(_) do
     # Start the application
     IO.puts("Starting the WebSocket server...")
 
